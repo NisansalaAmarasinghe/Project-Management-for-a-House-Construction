@@ -27,4 +27,4 @@ This project management document outlines the planning, execution, and monitorin
     <li>Risk management is a critical aspect of project management, and identifying and mitigating potential risks can help prevent delays and cost overruns.</li>
 </ul>
 <h2>Author</h2>
-<p>Nisansala Amarasinghe</p>
+<p><strong>Nisansala Amarasinghe</strong></p>
