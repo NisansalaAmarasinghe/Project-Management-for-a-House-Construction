@@ -6,7 +6,7 @@ This project management document outlines the planning, execution, and monitorin
 <ol>
     <li><b>Work Breakdown Structure (WBS)</b> - Breakdown of the project into smaller, manageable tasks.</li>
     <li><b>Network Diagram </b> - Visual representation of the project schedule, showing dependencies between tasks.</li>
-    <li>Gantt Chart </b> - Visual representation of the project timeline, showing task durations and dependencies.</li>
+    <li><b>Gantt Chart </b> - Visual representation of the project timeline, showing task durations and dependencies.</li>
     <li><b>Budget & Cost Distribution Plan </b> - Detailed breakdown of project costs, including activity lists, durations, costs per day, and total budget.</li>
     <li><b>Responsibility Matrix </b> - Assigns responsibilities to team members for each task, ensuring clear accountability.</li>
     <li><b>Communication Plan </b> - Outlines communication methods, frequency, and purpose for different stakeholders.</li>
